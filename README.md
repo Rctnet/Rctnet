@@ -1,7 +1,12 @@
-### Hi there 👋
+### Resuminho básico
+
+<div>
+  <a href="https://github.com/Rctnet"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rctnet&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rctnet&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
 
 <!--
-**Rctnet/Rctnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**gildonei/gildonei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
