@@ -1,8 +1,8 @@
 ### Resuminho básico
 
 <div>
-  <a href="https://github.com/Quilhasoft"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Quilhasoft&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quilhasoft&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/QuilhaSoft"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=QuilhaSoft&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuilhaSoft&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
 
 <!--
